@@ -5,7 +5,8 @@ A Simple Android library to check various types of network connections (WIFI,INT
 * Androidx
 * Kotlin
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://res.cloudinary.com/wise4rmgod/video/upload/v1585408036/Github_recording.......mov)
+![Alt Text](https://res.cloudinary.com/wise4rmgod/image/upload/v1585409145/ezgif.com-video-to-gif.gif)
+ 
 
 # How to set up
 And add a dependency code to your module's build.gradle file.
