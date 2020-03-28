@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/wise4rmgod/AdnetwrokManager.svg)](https://jitpack.io/#wise4rmgod/AdnetwrokManager)
 # AdnetwrokManager
 A Simple Android library to check various types of network connections (WIFI,INTERNET), to allow an android app to check internet connectivity status in realtime.
 
