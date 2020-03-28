@@ -38,9 +38,8 @@ Add the neccesary permissions in the manifest file
 
 ```
 ## Example
-```
 
-
+```kotlin
 
 import com.dev.adnetworkm.CheckNetworkStatus
 import com.example.refressh_networkconnection.utils.NetworkUtil
@@ -70,9 +69,6 @@ class MainActivity : AppCompatActivity() {
 
 
 }
-
-
-
 
 
 ```
